@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <line>
+    <sum_positive>
+      <number>6</number>
+      <number>66</number>
+    </sum_positive>
+    <number_negative>
+      <number>666</number>
+      <number>-6666</number>
+    </number_negative>
+  </line>
+  <line>
+    <sum_positive>
+      <number>-66666</number>
+      <number>666666</number>
+    </sum_positive>
+    <number_negative>
+      <number>-6666666</number>
+      <number>66666666</number>
+    </number_negative>
+  </line>
+  <line>
+    <sum_positive>
+      <number>-666666666</number>
+      <number>6666666666</number>
+    </sum_positive>
+    <number_negative>
+      <number>-66666666666</number>
+      <number>666666666666</number>
+    </number_negative>
+  </line>
+</root>
